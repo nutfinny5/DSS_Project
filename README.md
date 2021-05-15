@@ -12,6 +12,8 @@ Tell me something about this project.
 
 Hi my name is Nicole 
 
+lol byebyee
+
 # Methodology
 
 Please refer to /docs
