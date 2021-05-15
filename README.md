@@ -10,6 +10,8 @@ You can modify this README.md to highlight:
 
 Tell me something about this project.
 
+Hi my name is Nicole 
+
 # Methodology
 
 Please refer to /docs
